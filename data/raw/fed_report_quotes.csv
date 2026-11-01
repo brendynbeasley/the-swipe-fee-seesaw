@@ -1,0 +1,7 @@
+item,value,unit,source,location
+rewards_per_txn_2009,0.04,dollars per transaction,"Federal Reserve Board, 2009 Interchange Revenue, Covered Issuer Cost, and Covered Issuer and Merchant Fraud Loss Related to Debit Card Transactions (June 2011)","Section IV, discussion of Table 6: rewards and other incentives, mean per transaction, all debit"
+covered_fee_2011_jan_sep,0.50,dollars per transaction,"Federal Reserve Board, 2011 Interchange Fee Revenue, Covered Issuer Costs, and Covered Issuer and Merchant Fraud Losses Related to Debit Card Transactions (March 5, 2013)","Executive Summary, p. 2: average received by covered issuers during the first nine months of 2011"
+covered_fee_2011_q4,0.24,dollars per transaction,"Federal Reserve Board, 2011 Interchange Fee Revenue report (March 5, 2013)","Executive Summary, p. 2: covered issuers, fourth quarter of 2011"
+cap_fixed,0.21,dollars per transaction,"Federal Reserve Board, 2011 Interchange Fee Revenue report (March 5, 2013); 12 CFR 235.3","Executive Summary, p. 1"
+cap_ad_valorem,0.0005,share of transaction value,"Federal Reserve Board, 2011 Interchange Fee Revenue report (March 5, 2013); 12 CFR 235.3","Executive Summary, p. 1 (5 basis points)"
+cap_fraud_adjustment,0.01,dollars per transaction,"Federal Reserve Board, 2011 Interchange Fee Revenue report (March 5, 2013); 12 CFR 235.4","Executive Summary, p. 1 (up to one cent)"

@@ -1,0 +1,6 @@
+rule,dropped_covered,dropped_exempt
+"2010 fee per account outside $10-$400, or under 10,000 accounts",12,39
+"not present, without a break, in every year 2010-2013",8,85
+banks without service-charge data hold over 5% of accounts,2,4
+crossed the $10 billion line while in the panel,2,37
+kept,51,290

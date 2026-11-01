@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Partial or replacement downloads (the committed raw files are small enough to keep)
+data/raw/*.tmp*
+data/raw/tmp_*
+
+# Secrets
+*.key
+*_key.txt
+
+# OS clutter
+.DS_Store
